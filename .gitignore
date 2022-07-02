@@ -1,2 +1,7 @@
+.vs/
+bin/
+bin-int/
 
-.vs/Hazel/v17/Browse.VC.opendb
+
+#files
+.user
